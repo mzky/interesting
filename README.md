@@ -47,7 +47,12 @@ IBM的教学：https://www.ibm.com/developerworks/cn/topics/
 ### Testing tools learning
 https://www.softwaretestingclass.com/
 
-### 
+### Golang
+https://fuckcloudnative.io/the-way-to-go/
+
+https://studygolang.com/pkgdoc
+
+The Go Playground：https://play.golang.org/
 
 ### 
 
