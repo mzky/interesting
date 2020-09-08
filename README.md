@@ -1,5 +1,4 @@
-# interesting
-interesting thing and link
+# interesting | interesting thing and link
 
 
 #### Kubernetes and Prometheus （author is interesting human）
