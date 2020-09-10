@@ -31,6 +31,8 @@ IBM的教学：https://www.ibm.com/developerworks/cn/topics/
 
 虚拟机：http://niusmallnan.com/_build/html/index.html#
 
+思否：https://segmentfault.com/
+
 ### Download
 软件缘：https://www.appcgn.com/
 
