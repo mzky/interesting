@@ -1,7 +1,7 @@
 # interesting | thing and link
 
 
-### Kubernetes and Prometheus （author is Funny soul）
+### Kubernetes and Prometheus （author have Funny soul）
 https://fuckcloudnative.io/
 
 
