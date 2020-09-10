@@ -17,19 +17,19 @@ https://msdn.itellyou.cn/
 ### Learning
 菜鸟：http://www.runoob.com
 
-易百教程：http://www.yiibai.com
+基础：https://www.w3cschool.cn
 
-教程：https://www.w3cschool.cn
+基础2：http://www.w3school.com.cn
 
-国产3w：http://www.w3school.com.cn/index.html
+易百：http://www.yiibai.com
 
 码迷：http://www.mamicode.com
 
-IBM的教学：https://www.ibm.com/developerworks/cn/topics/
+IBM学院：https://www.ibm.com/developerworks/cn/topics/
 
 在线工具：http://tool.apizl.com/
 
-虚拟机：http://niusmallnan.com/_build/html/index.html#
+虚拟化：http://niusmallnan.com/_build/html
 
 思否：https://segmentfault.com/
 
@@ -55,6 +55,11 @@ https://fuckcloudnative.io/the-way-to-go/
 https://studygolang.com/pkgdoc
 
 The Go Playground：https://play.golang.org/
+
+GOPROXY=https://goproxy.io,direct
+
+GOPROXY=https://goproxy.cn,direct
+
 
 ### 
 
