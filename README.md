@@ -64,4 +64,6 @@ GOPROXY=https://goproxy.cn,direct
 ### Tools
 online ide:https://repl.it/languages
 
-### 
+### other
+https://hsuanthony.pixnet.net/blog
+https://359303267.github.io/
