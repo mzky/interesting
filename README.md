@@ -46,6 +46,8 @@ IBM学院：https://www.ibm.com/developerworks/cn/topics/
 
 大眼仔：http://www.dayanzai.me/
 
+乐软博客：https://www.isharepc.com/
+
 ### Testing tools learning
 https://www.softwaretestingclass.com/
 
