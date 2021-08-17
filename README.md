@@ -14,7 +14,7 @@
 
 亿品元素：http://www.epinv.com/
 
-0day: http://www.0daydown.com/
+0day：http://www.0daydown.com/
 
 大眼仔：http://www.dayanzai.me/
 
