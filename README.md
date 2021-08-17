@@ -30,7 +30,7 @@ http://ftp5.gwdg.de/pub/
 
 http://ftp5.gwdg.de/
 
-http://ftp.ntu.edu.tw/（tomcat、mysql很多等安装包）
+http://ftp.ntu.edu.tw/ （tomcat、mysql很多等安装包）
 
 
 ### Window系统及工具
@@ -43,16 +43,16 @@ https://next.itellyou.cn/
 
 ### JSON相关工具：
 
-json-oh-yeah： http://www.jsonohyeah.com/（极力推荐）
+json-oh-yeah： http://www.jsonohyeah.com/ （极力推荐）
 
-json辅助1： https://www.bejson.com（极力推荐）
+json辅助1： https://www.bejson.com （极力推荐）
 
 json辅助2： http://www.sojson.com/
 
 
 ### 学习资料大全：
 
-菜鸟（多而且全）：http://www.runoob.com（极力推荐）
+菜鸟（多而且全）：http://www.runoob.com （极力推荐）
 
 易百教程：http://www.yiibai.com
 
@@ -70,7 +70,7 @@ ibm官网的教学：https://www.ibm.com/developerworks/cn/topics/
 
 思否：https://segmentfault.com/
 
-国外优秀的测试全套技能网站：http://www.softwaretestingclass.com/（极力推荐）
+国外优秀的测试全套技能网站：http://www.softwaretestingclass.com/ （极力推荐）
 
 国内测试学习：https://bbs.testerhome.com/
 
@@ -96,7 +96,7 @@ Base64编码：http://tool.chinaz.com/Tools/Base64.aspx
 
 http://jsbin.com
 
-https://codepen.io（推荐）
+https://codepen.io （推荐）
 
 https://codesandbox.io
 
