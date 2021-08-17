@@ -34,7 +34,6 @@ http://ftp.ntu.edu.tw/ （tomcat、mysql等很多安装包）
 
 
 ### Window系统及工具
-
 https://msdn.itellyou.cn/
 
 https://next.itellyou.cn/
@@ -42,7 +41,6 @@ https://next.itellyou.cn/
 
 
 ### JSON相关工具：
-
 json-oh-yeah： http://www.jsonohyeah.com/ （极力推荐）
 
 json辅助1： https://www.bejson.com （极力推荐）
@@ -51,7 +49,6 @@ json辅助2： http://www.sojson.com/
 
 
 ### 学习资料大全：
-
 菜鸟（多而且全）：http://www.runoob.com （极力推荐）
 
 易百教程：http://www.yiibai.com
@@ -76,24 +73,20 @@ ibm官网的教学：https://www.ibm.com/developerworks/cn/topics/
 
 
 ### 在线转换：
-
-编码格式：http://tool.chinaz.com/Tools/Unicode.asp
-
 进制转换：http://tool.oschina.net/hexconvert/
 
 Base64编码：http://tool.chinaz.com/Tools/Base64.aspx
 
 
 ### 翻墙工具：
-
 蓝灯：https://github.com/getlantern/lantern
 
 西游：https://xiyou360.net/
 
 在线代理：https://proxysite.page/
 
-### 前端在线调试:
 
+### 前端在线调试:
 http://jsbin.com
 
 https://codepen.io （推荐）
@@ -105,18 +98,14 @@ http://tool.oschina.net
 https://www.awesomes.cn
 
 
-
 ### Bootstrap相关优质项目：
-
 站点：http://www.bootcss.com/
 
 
 ### datatables插件：
-
 官网：https://datatables.net
 
 国内站点：http://datatables.club/
-
 
 
 ### Golang相关
@@ -128,7 +117,6 @@ The Go Playground：https://play.golang.org/
 
 
 ### Golang代理
-
 https://goproxy.cn (推荐使用这个，比较稳定)
 
 https://goproxy.io
@@ -154,7 +142,6 @@ https://359303267.github.io/
 
 
 ### 国内能用的替代google
-
 https://yandex.com (俄罗斯，快)
 
 https://swisscows.com （50个搜索查询可以为儿童餐提供资金）
