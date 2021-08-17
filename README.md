@@ -2,29 +2,10 @@
 
 
 ### Kubernetes and Prometheus （author have Funny soul）
-https://fuckcloudnative.io/
+有趣：https://fuckcloudnative.io/
 
 
-### Learning
-菜鸟：http://www.runoob.com
-
-基础：https://www.w3cschool.cn
-
-基础2：http://www.w3school.com.cn
-
-易百：http://www.yiibai.com
-
-码迷：http://www.mamicode.com
-
-IBM学院：https://www.ibm.com/developerworks/cn/topics/
-
-在线工具：http://tool.apizl.com/
-
-虚拟化：http://niusmallnan.com/_build/html
-
-思否：https://segmentfault.com/
-
-### Download
+### 软件下载
 软件缘：https://www.appcgn.com/
 
 便携精品：https://www.portablesoft.org/
@@ -40,29 +21,9 @@ IBM学院：https://www.ibm.com/developerworks/cn/topics/
 乐软博客：https://www.isharepc.com/
 
 
-### Golang
-https://fuckcloudnative.io/the-way-to-go/
-
-https://studygolang.com/pkgdoc
-
-The Go Playground：https://play.golang.org/
-
-GOPROXY=https://goproxy.io,direct
-
-GOPROXY=https://goproxy.cn,direct
-
-
-### Tools
-online ide:https://repl.it/languages
-
-### other
-https://hsuanthony.pixnet.net/blog
-
-https://359303267.github.io/
-
-
 ### Linux各种资源下载：
 http://linux.linuxidc.com/
+
 
 ### Linux系统下载：
 http://ftp5.gwdg.de/pub/
@@ -107,6 +68,8 @@ ibm官网的教学：https://www.ibm.com/developerworks/cn/topics/
 
 虚拟机：http://niusmallnan.com/_build/html/index.html#
 
+思否：https://segmentfault.com/
+
 国外优秀的测试全套技能网站：http://www.softwaretestingclass.com/（极力推荐）
 
 国内测试学习：https://bbs.testerhome.com/
@@ -127,6 +90,7 @@ Base64编码：http://tool.chinaz.com/Tools/Base64.aspx
 
 西游：https://xiyou360.net/
 
+在线代理：https://proxysite.page/
 
 ### 前端在线调试:
 
@@ -153,3 +117,44 @@ https://www.awesomes.cn
 
 国内站点：http://datatables.club/
 
+
+
+### Golang相关
+https://fuckcloudnative.io/the-way-to-go/
+
+https://studygolang.com/pkgdoc
+
+The Go Playground：https://play.golang.org/
+
+
+### Golang代理
+
+https://goproxy.cn (推荐使用这个，比较稳定)
+
+https://goproxy.io
+
+https://proxy.golang.org
+
+
+### GitHub 加速
+https://gh.2i.gs/
+
+https://ghproxy.com/
+
+https://mirror.ghproxy.com/
+
+
+### Tools
+online ide:https://repl.it/languages
+
+### other
+https://hsuanthony.pixnet.net/blog
+
+https://359303267.github.io/
+
+
+### 国内能用的替代google
+
+https://yandex.com (俄罗斯，快)
+
+https://swisscows.com （50个搜索查询可以为儿童餐提供资金）
