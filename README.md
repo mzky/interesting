@@ -69,7 +69,7 @@ ibm官网的教学：https://www.ibm.com/developerworks/cn/topics/
 
 国外优秀的测试全套技能网站：http://www.softwaretestingclass.com/ （极力推荐）
 
-国内测试学习：https://bbs.testerhome.com/
+国内测试学习：http://testerhome.com/
 
 
 ### 在线转换：
