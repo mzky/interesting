@@ -30,7 +30,7 @@ http://ftp5.gwdg.de/pub/
 
 http://ftp5.gwdg.de/
 
-http://ftp.ntu.edu.tw/ （tomcat、mysql很多等安装包）
+http://ftp.ntu.edu.tw/ （tomcat、mysql等很多安装包）
 
 
 ### Window系统及工具
