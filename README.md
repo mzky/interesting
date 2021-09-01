@@ -145,3 +145,8 @@ https://359303267.github.io/
 https://yandex.com (俄罗斯，快)
 
 https://swisscows.com （50个搜索查询可以为儿童餐提供资金）
+
+
+### 百事通 搜索
+
+https://zh.wikihow.com/
