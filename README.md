@@ -178,3 +178,24 @@ https://www.topgoer.com/
 ### PDF转换
 
 https://www.aconvert.com/cn/
+
+
+## 收藏夹--日报 & 周刊👋
+
+科技爱好者周刊：https://github.com/ruanyf/weekly
+
+Go语言爱好者周刊：https://github.com/polaris1119/golangweekly
+
+老黄的周刊：https://github.com/bingoohuang/weekly
+
+技术文档：https://github.com/doocs/leetcode
+
+大前端笔记：https://github.com/overnote/over-javascript
+
+Go语言笔记：https://github.com/overnote/over-golang
+
+Hacker News：https://news.ycombinator.com/newest
+
+Ben E. C. Boyter's Blog：https://boyter.org/
+
+掘金翻译计划：https://github.com/xitu/gold-miner
