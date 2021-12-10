@@ -185,7 +185,7 @@ Go语言爱好者周刊：https://github.com/polaris1119/golangweekly
 
 老黄的周刊：https://github.com/bingoohuang/weekly
 
-技术文档：https://github.com/doocs/leetcode
+技术算法：https://github.com/doocs/leetcode
 
 大前端笔记：https://github.com/overnote/over-javascript
 
