@@ -129,6 +129,7 @@ https://studygolang.com/pkgdoc
 
 The Go Playground：https://play.golang.org/
 
+https://www.topgoer.com/
 
 ### Golang代理
 
@@ -170,9 +171,6 @@ https://swisscows.com （50个搜索查询可以为儿童餐提供资金）
 
 https://zh.wikihow.com/
 
-### Golang知识
-
-https://www.topgoer.com/
 
 ### PDF转换
 
