@@ -25,9 +25,11 @@
 乐软博客：https://www.isharepc.com/
 
 
-### Linux各种资源下载：
+### Linux各种资源：
 
-http://linux.linuxidc.com/
+https://www.linuxidc.com/
+
+虚拟机镜像：https://app.vagrantup.com/boxes/search
 
 
 ### Linux系统下载：
