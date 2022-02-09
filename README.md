@@ -24,7 +24,9 @@
 
 乐软博客：https://www.isharepc.com/
 
-编写软件下载（国外站点）：https://portableapps.com/
+软件下载（国外站点）：https://portableapps.com/
+
+软件下载（国外站点）：https://portabledownloads.com/
 
 
 ### Linux各种资源：
