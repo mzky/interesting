@@ -94,7 +94,7 @@ Base64编码：http://tool.chinaz.com/Tools/Base64.aspx
 
 蓝灯：https://github.com/getlantern/lantern
 
-西游：https://xiyou360.net/
+西游：https://sunwk.fun/
 
 在线代理：https://proxysite.page/
 
