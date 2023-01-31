@@ -10,10 +10,6 @@
 
 ### 软件下载
 
-软件缘：https://www.appcgn.com/
-
-便携精品：https://www.portablesoft.org/
-
 小众软件：https://www.appinn.com/
 
 亿品元素：http://www.epinv.com/
