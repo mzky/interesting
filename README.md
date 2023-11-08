@@ -195,5 +195,24 @@ Ben E. C. Boyter's Blog：https://boyter.org/
 
 掘金翻译计划：https://github.com/xitu/gold-miner
 
+## GPT-AI
+通义千问：https://qianwen.aliyun.com/
+
+文心一言：https://yiyan.baidu.com/
+
+AI助手：https://inspiration.baidu.com/app?isNewPage=0
+
+AI工具集：https://study.163.com/topics/ai-tooling-collection?from=AIChat
+
+支持100K体量文字：https://poe.com/Claude-2-100k
+
+https://poe.com/GPT-4
+
+https://gptcn.ai/
+
+https://agentgpt.reworkd.ai/zh
+
+https://www.toolai.io/zh/
+
 
 # 欢迎在本项目issues中推荐和自荐网站
