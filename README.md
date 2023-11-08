@@ -194,3 +194,6 @@ Hacker News：https://news.ycombinator.com/newest
 Ben E. C. Boyter's Blog：https://boyter.org/
 
 掘金翻译计划：https://github.com/xitu/gold-miner
+
+
+# 欢迎在本项目issues中推荐和自荐网站
