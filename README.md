@@ -7,6 +7,9 @@
 
 知识：https://wsgzao.github.io/index/
 
+https://hsuanthony.pixnet.net/blog
+
+https://359303267.github.io/
 
 ### 软件下载
 
@@ -146,13 +149,6 @@ https://ghp.ci (ghproxy.com)
 ### Tools
 
 online ide:https://repl.it/languages
-
-
-### other
-
-https://hsuanthony.pixnet.net/blog
-
-https://359303267.github.io/
 
 
 ### 国内能用的替代google
