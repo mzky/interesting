@@ -12,8 +12,6 @@
 
 小众软件：https://www.appinn.com/
 
-亿品元素：http://www.epinv.com/
-
 0day：http://www.0daydown.com/
 
 大眼仔：http://www.dayanzai.me/
@@ -21,6 +19,8 @@
 乐软博客：https://www.isharepc.com/
 
 软件下载（国外站点）：https://portableapps.com/
+
+软体王：https://www.softking.com.tw/
 
 
 ### Linux各种资源：
@@ -32,19 +32,18 @@ https://www.linuxidc.com/
 
 ### Linux系统下载：
 
-http://ftp5.gwdg.de/pub/
+http://ftp5.gwdg.de/pub
 
-http://ftp5.gwdg.de/
+http://ftp5.gwdg.de
 
-http://ftp.ntu.edu.tw/ （tomcat、mysql等很多安装包）
+http://ftp.ntu.edu.tw
 
 
 ### Window系统及工具
 
-https://msdn.itellyou.cn/
+https://msdn.itellyou.cn
 
-https://next.itellyou.cn/
-
+https://next.itellyou.cn
 
 
 ### JSON相关工具：
@@ -56,7 +55,7 @@ json辅助2： http://www.sojson.com/
 
 ### 学习资料大全：
 
-菜鸟（多而且全）：http://www.runoob.com （极力推荐）
+菜鸟（多而且全）：http://www.runoob.com （推荐）
 
 易百教程：http://www.yiibai.com
 
@@ -74,7 +73,7 @@ ibm官网的教学：https://www.ibm.com/developerworks/cn/topics/
 
 思否：https://segmentfault.com/
 
-国外优秀的测试全套技能网站：http://www.softwaretestingclass.com/ （极力推荐）
+国外优秀的测试全套技能网站：http://www.softwaretestingclass.com/ （推荐）
 
 国内测试学习：http://testerhome.com/
 
@@ -85,14 +84,16 @@ ibm官网的教学：https://www.ibm.com/developerworks/cn/topics/
 
 Base64编码：http://tool.chinaz.com/Tools/Base64.aspx
 
+PYL 工具箱：http://tools.poyila.com
 
-### 翻墙工具：
+
+### 科学工具：
 
 蓝灯：https://github.com/getlantern/lantern
 
-西游：https://sunwk.fun/
-
 在线代理：https://proxysite.page/
+
+github代理：https://ghp.ci (ghproxy.com)
 
 
 ### 前端在线调试:
@@ -106,8 +107,7 @@ https://codesandbox.io
 http://tool.oschina.net
 
 
-
-### Bootstrap相关优质项目：
+### Bootstrap项目：
 
 站点：http://www.bootcss.com/
 
@@ -129,9 +129,10 @@ The Go Playground：https://play.golang.org/
 
 https://www.topgoer.com/
 
+
 ### Golang代理
 
-https://goproxy.cn (推荐使用这个，比较稳定)
+https://goproxy.cn
 
 https://goproxy.io
 
