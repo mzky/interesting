@@ -87,15 +87,6 @@ Base64编码：http://tool.chinaz.com/Tools/Base64.aspx
 PYL 工具箱：http://tools.poyila.com
 
 
-### 科学工具：
-
-蓝灯：https://github.com/getlantern/lantern
-
-在线代理：https://proxysite.page/
-
-github代理：https://ghp.ci (ghproxy.com)
-
-
 ### 前端在线调试:
 
 http://jsbin.com
@@ -147,10 +138,15 @@ https://ghproxy.com/
 
 https://mirror.ghproxy.com/
 
+https://proxysite.page/
+
+https://ghp.ci (ghproxy.com)
+
 
 ### Tools
 
 online ide:https://repl.it/languages
+
 
 ### other
 
@@ -196,7 +192,7 @@ Ben E. C. Boyter's Blog：https://boyter.org/
 
 掘金翻译计划：https://github.com/xitu/gold-miner
 
-## GPT-AI
+## GPT
 通义千问：https://qianwen.aliyun.com/
 
 文心一言：https://yiyan.baidu.com/
