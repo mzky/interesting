@@ -205,7 +205,7 @@ https://agentgpt.reworkd.ai/zh
 https://www.toolai.io/zh/
 
 
-# 免费实用网站合集（Markdown 格式）
+# 免费实用网站合集
 
 ## 一、学习教育类（20 个）
 1. [中国大学 MOOC](https://www.icourse163.org/)：国内顶尖高校免费课程，覆盖全学科，可获电子证书
